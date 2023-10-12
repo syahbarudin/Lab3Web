@@ -1,3 +1,19 @@
+**Tugas**
+Buatlah form yang menampilkan _dropdown_ menu dan _listbox_ dengan _multiple selection_ .
+
+jawab
+
+1. Dropdown
+
+   Tampilan VS Code
+
+   ![image](https://github.com/syahbarudin/Lab3Web/assets/146621192/ac7ddf77-82a1-48a1-9a97-c5fa9b97ce0d)
+
+   Tampilan Website
+
+   ![image](https://github.com/syahbarudin/Lab3Web/assets/146621192/c2807ef5-d54c-408d-96f2-90efe3d23319)
+
+
 **Praktikum**
 
 1. Membuat order list
