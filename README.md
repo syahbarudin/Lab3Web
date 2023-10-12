@@ -59,3 +59,14 @@
    Tampilan Website
 
    ![gambar](https://github.com/syahbarudin/Lab3Web/assets/146621192/eda9f0f2-7aea-40cd-9269-92f8964d6e8b)
+
+8. Menambahkan style pada form
+
+   Tampilan VS Code
+
+   ![image](https://github.com/syahbarudin/Lab3Web/assets/146621192/3b7ea648-cb2e-43de-8353-7dd2888778ff)
+
+   Tampilan Website
+
+   ![image](https://github.com/syahbarudin/Lab3Web/assets/146621192/07f53b0d-c32b-4bf3-a886-9b669215e47e)
+
